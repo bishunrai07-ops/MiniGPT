@@ -1,0 +1,9 @@
+{
+  "name": "MiniGPT | By Bishnu Raidash",
+  "description": "MiniGPT: The Ultimate AI Intelligence Assistant created by Bishnu Raidash. Features viral content creation tools for influencers, 4K image generation, and high-performance minimalist interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
